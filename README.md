@@ -130,9 +130,9 @@
   <div class="container contact">
     <h2>Contact Us</h2>
     <p><strong>Location:</strong> Kitengela, Kenya</p>
-    <p><strong>Phone / WhatsApp:</strong> +254 XXX XXX XXX</p>
+    <p><strong>Phone / WhatsApp:</strong> +254 796 177 870</p>
     <p><strong>Email:</strong> info@moftechsolution.com</p>
-    <a class="btn" href="https://wa.me/254XXXXXXXX">Chat on WhatsApp</a>
+    <a class="btn" href="https://wa.me/254 796 177 870">Chat on WhatsApp</a>
   </div>
 </section>
 
